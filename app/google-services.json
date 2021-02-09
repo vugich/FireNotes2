@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "579941820265",
+    "project_id": "firenotes-38a8e",
+    "storage_bucket": "firenotes-38a8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579941820265:android:38e6db0697ef0029703ff8",
+        "android_client_info": {
+          "package_name": "com.example.firenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579941820265-1aughf3qu10ghhkv08f2p2n37k9rsn1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firenotes",
+            "certificate_hash": "8abc4b43db774fa70092c4b35afe22a7fcf7fefd"
+          }
+        },
+        {
+          "client_id": "579941820265-80p71o671rd07m4s2k0e1421vhjjo0dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7vzS6QHFGQmnyME4LGnz1jy-QTW7hUPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579941820265-80p71o671rd07m4s2k0e1421vhjjo0dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
